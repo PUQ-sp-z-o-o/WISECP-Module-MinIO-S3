@@ -1,0 +1,61 @@
+# Service/Product configuration
+
+### MinIO S3 module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+#####  [Order now](https://puqcloud.com/wisecp-module-minio-s3.php) | [Dowload](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-MinIO-S3/) | [FAQ](https://faq.puqcloud.com/)
+
+<p class="callout info">If you do not have a **Service Group** where you want to place the new service, you need to create a new **Service Group**</p>
+
+##### 1. Log in to the administrative area of your **[WISECP](https://puqcloud.com/link.php?id=78)**.
+
+##### 2. Create New Service Group
+
+  
+Go to
+
+```
+Services -> Service Management -> Add Group
+```
+
+[![image-1700487270737.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700487270737.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700487270737.png)
+
+Enter all the necessary data and click the '**Create Group**' button.
+
+[![image-1702214064247.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1702214064247.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1702214064247.png)
+
+##### 3. Adding a New Service  
+  
+
+
+Go to
+
+```
+Services -> our service group where you need to add the new service.
+```
+
+[![image-1702214168666.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1702214168666.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1702214168666.png)
+
+In the opened window, click the '**Create New Service**' button.
+
+[![image-1702214193287.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1702214193287.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1702214193287.png)
+
+On the opened page, enter all the necessary details for your new service and navigate to the '**Core**' tab.  
+  
+Select the '**PUQ MinIO S3**' module from the drop-down list of modules.
+
+[![image-1715874501741.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1715874501741.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1715874501741.png)
+
+##### 4. Fill in the configuration options according to your preferences.
+
+- **Server Group** is the group of servers from which a server will be chosen for provisioning the service
+- **Disk Limit:**  is the disk space quota that is issued to the user
+- **Group:** is the group that will be assigned to the user
+- **Username Prefix** will be added at the beginning of the username during user creation and is used for uniqueness
+- **Username Suffix** will be added at the end of the username during user creation and is also used for uniqueness
+- **Create default bucket** To create a bucket by default after creating a user
+- <div>**Default bucket postfix** The default bucket will be created with the user's name, followed by this parameter  
+    </div>
+- **Raw policy** The policy that will be applied to the user while the user has not exceeded usage limits
+- **Raw policy Disk limit** The policy that will be applied to the user when the user exceeds usage limits
+
+<div id="bkmrk--4"><div></div></div>

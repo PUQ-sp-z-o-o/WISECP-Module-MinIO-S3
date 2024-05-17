@@ -1,0 +1,31 @@
+# Setup (install/update)
+
+### MinIO S3 module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+#####  [Order now](https://puqcloud.com/wisecp-module-minio-s3.php) | [Dowload](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-MinIO-S3/) | [FAQ](https://faq.puqcloud.com/)
+
+<p class="callout info">To install and update a module, you must perform one and the same action.</p>
+
+#####  
+
+##### 1. Download the latest version of the module.
+
+```Powershell
+wget http://download.puqcloud.com/WISECP/Product/PUQ_WISECP-MinIO-S3/PUQ_WISECP-MinIO-S3-latest.zip
+```
+
+<p class="callout info">All versions are available: [https://download.puqcloud.com/WISECP/Product/PUQ\_WISECP-MinIO-S3/](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-MinIO-S3/)</p>
+
+#####  
+
+##### 2. Unzip the archive with the module.
+
+```Powershell
+unzip PUQ_WISECP-MinIO-S3-latest.zip
+```
+
+#####  
+
+##### 3. Copy and Replace "puqMinIOS3" from "PUQ\_WISECP-MinIO-S3" to "WISECP\_WEB\_DIR/coremio/modules/Product/"
+
+<div id="bkmrk-"><div></div></div><div id="bkmrk--0"><div></div></div><div id="bkmrk--1"><div></div></div>

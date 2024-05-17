@@ -1,0 +1,28 @@
+# Order Detail
+
+### MinIO S3 module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+#####  [Order now](https://puqcloud.com/wisecp-module-minio-s3.php) | [Dowload](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-MinIO-S3/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Navigate to the service you want to manage, then go to the '**Core**' tab.
+
+[![image-1715875086700.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1715875086700.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1715875086700.png)
+
+in the opened tab, you have a view of the online status of the service. The available online information includes:
+
+- **Update Policy** button sets the required policy upon clicking, provided that the free space = 0, it sets a limited policy; otherwise, it sets the default policy
+- **Set Standard Policy** button sets the standard policy
+- **Set Limited Policy** button sets the limited policy
+- <p class="callout info">Attention, automatic policy change process occurs once per hour, so after the policy is changed forcibly, the policy will return to the correct state.</p>
+- Connection status to the API
+- Information about user account on the MinIO server
+- Diagnostic information about the account
+- List of buckets and their size and contents
+
+Also, below are fields with the client's personal data, such as Username, Password, Server  
+  
+You can also individually override package options for the client by checking the '**Overwrite package settings**' box.
+
+[![image-1715875560348.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1715875560348.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1715875560348.png)
+
+<p class="callout warning">Note: When changing the Server Group, Server fields, make sure you have a user with the username as specified in the 'Username' field pre-created on the new server. Otherwise, you will need to recreate the service for your client.</p>
