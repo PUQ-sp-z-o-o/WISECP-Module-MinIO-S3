@@ -41,6 +41,6 @@ Available options in the client panel:
 
 >MinIO: RELEASE.2023-02-22T18-23-45Z +
 
-[![image-1715824455321.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1715824455321.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1715824455321.png)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-MinIO-S3/assets/81689153/f99fb39a-d452-4c00-bbbd-a4cb17e9af84)
 
 [![image-1715824489421.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1715824489421.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1715824489421.png)
