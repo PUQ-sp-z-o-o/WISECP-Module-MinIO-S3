@@ -39,7 +39,7 @@ Available options in the client panel:
 
 >WISECP: v3.1.5+, php: v8.x, Ioncube: V12+
 
->MinIO: RELEASE.2023-02-22T18-23-45Z +
+>MinIO: RELEASE.2024-06-26T01-06-18Z +
 
 ![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-MinIO-S3/assets/81689153/f99fb39a-d452-4c00-bbbd-a4cb17e9af84)
 
